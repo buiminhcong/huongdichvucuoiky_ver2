@@ -15,4 +15,8 @@ b3. Cài đặt mysql
 Chạy chương trình
 b1. start dịch vụ Student Transcrip ubility service notification
 b2. start dịch vụ eureka-server và chạy trên cổng 8761 bạn sẽ thấy các dịch vụ đang chạy
+![image](https://user-images.githubusercontent.com/93995859/176824901-3b5438bc-9ae1-464f-bad1-12e9a02069c5.png)
+
 b3 truy cập ứng dụng client truy cập cổng 8080/client/view à nhập theo định dạng
+![image](https://user-images.githubusercontent.com/93995859/176824848-653a94b4-0b92-43f3-8721-55f5d29ed0a9.png)
+
