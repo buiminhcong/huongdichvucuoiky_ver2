@@ -27,7 +27,7 @@ public class Demo {
 
             String kq = "Chào "+name+  "GPA hiện tại của bạn là: " + gpa
                     + "##";
-            Twilio.init("AC7815366b4b39930807b54cbed6f9df1c", "e991c02fd4ae0f7d670cee85d05f5729");
+//             Twilio.init("AC7815366b4b39930807b54cbed6f9df1c", "e991c02fd4ae0f7d670cee85d05f5729");
 
             Message.creator(new PhoneNumber(phone),
                     new PhoneNumber("+18597106546"), kq).create();
